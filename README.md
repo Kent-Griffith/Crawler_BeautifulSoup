@@ -1,4 +1,10 @@
 # Crawler_BeautifulSoup
+本人第一个爬虫程序，，，，，水平有限，请大佬们多多指教
+包含用python的BeautifulSoup框架来爬取图片文本
+包含文件夹的建立，网络中标签的提取，图片保存
+用4399动漫网做实验：
+![image](https://user-images.githubusercontent.com/97998239/156315346-74dbffe2-e196-44e6-968f-f76c3ef50a45.png)
+
 入门爬虫程序
 主要模块，及爬虫主体：
 ![image](https://user-images.githubusercontent.com/97998239/156313076-c3a2c204-ff4b-4939-b89d-de2d1d4a199c.png)
