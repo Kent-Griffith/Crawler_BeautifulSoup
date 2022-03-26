@@ -1,6 +1,6 @@
 # Crawler_BeautifulSoup
 ***本人第一个爬虫程序
-，，，，，水平有限，请大佬们多多指教***
+，，，水平有限，请大佬们多多指教***
 :stuck_out_tongue:
 
 ***包含用python的BeautifulSoup的框架来爬取图片文本***
